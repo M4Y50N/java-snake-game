@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author MPeth
+ *
+ */
+module Snake {
+}
